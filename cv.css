@@ -1,0 +1,41 @@
+head{
+    width: 100%;
+    font-style: oblique;
+    text-align: left;
+    display: inline-block;
+}
+
+.image-profile {
+    float: left;
+    height: 20%;
+    width: 20%;
+    margin: 150px;
+    padding: 20px;
+    border: none;
+}
+
+.link{
+    font-size: medium;
+    text-decoration: none;
+}
+
+.info {
+    float: right;
+    width: 700px;
+    height: 5px;
+    margin: 5px;
+    padding: 5px;
+    border: none;
+}
+
+.skills{
+    text-align: left;
+
+}
+
+.name{
+    position: end;
+    width: 25px;
+    height: 25px;
+    position: inherit;
+}
